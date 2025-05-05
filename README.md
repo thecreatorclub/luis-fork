@@ -1,4 +1,5 @@
-Four key traits for any coding project
+This is change 1.
+'Four key traits for any coding project
 A Readme.md, when written correctly, is an essential tool for any coding project you are in, regardless of whether it is written in a personal or professional space. Readme.md is a great tool, and when done well, it can reduce complexity in setting up the local development environment. Its locality to the project code is a bonus to its accessibility to all working on the codebase.
 
 However, I came across people whose experiences with Readme.md differs from mine. Many negative experiences include Readme.md being too much effort to maintain, containing outdated information, being too wordy or just simply there is no benefit in needing to write one.
